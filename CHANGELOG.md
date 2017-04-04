@@ -1,6 +1,7 @@
 Change log
 -----------
 
+* Generate a bmap file for the resinos-img image [Michal]
 * Add support for Beaglebone Blue [Will]
 
 # v2.0.0+rev2 - 2017-04-04
